@@ -2,17 +2,17 @@ name: Update README
 
 on:
   schedule:
-    - cron: '* */6 * * *'
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    runs-on: ubuntu_lastest
+    name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: action/checkout@2.3.4
+
+      - uses: Readme-Workflows/recent-activity@2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN ${{ secrets.Github_TOKEN }}
