@@ -7,6 +7,6 @@
 
 
 ### :happy: Actvidad reciente
-<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:activity>
+<!--RECENT_ACTIVITY:end>
