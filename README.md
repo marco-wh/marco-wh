@@ -9,6 +9,3 @@
 
 ### Actvidad reciente
 ![Mi actividad reciente](https://github-readme-stats.vercel.app/api?username=marco-wh&show_icons=true&hide_title=true)
-
-### Contribuciones
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marco-wh)
