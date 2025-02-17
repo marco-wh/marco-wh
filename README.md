@@ -5,3 +5,8 @@
 - :computer: Aprendiz de Django
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/marco-wh/marco-wh)
+
+
+### :happy: Actvidad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update>
